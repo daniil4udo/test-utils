@@ -10,6 +10,7 @@ export {
 
 import './test/jest';
 import './test/chai';
+import './test/vitest';
 
 export {
     randomAddress,
